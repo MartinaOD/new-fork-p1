@@ -28,7 +28,7 @@ Se pide hacer un fork del repositorio: https://github.com/gitt-3-pat/p1; clicand
 
 De esta manera, una vez realizado, tendremos dos repositorios en nuestra cuenta:
 
-![La imagen no carga](/workspaces/new-fork-p1/images/cap1.png)
+![La imagen no carga](../images/cap1.png)
 
 
 ## Creación del Codespace
